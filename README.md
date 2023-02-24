@@ -14,7 +14,7 @@
        <td>1</td>
        <td>
           <b>
-             <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
+             <a href="https://github.com/slastionov/for_portfolio/tree/main/Project_1">
              Исследование надежности заемщиков</a>
           </b>
      </td>
@@ -32,7 +32,7 @@
    <td>2</td>  
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
+         <a href="https://github.com/slastionov/for_portfolio/tree/main/Project_2">
          Исследование объявлений о продаже квартир в Яндекс.Недвижимость</a>
      </b>
  </td>
@@ -50,7 +50,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/03_statistics_telecom">
+         <a href="https://github.com/slastionov/for_portfolio/tree/main/Project_3">
          Определение перспективного тарифа для телеком компании</a>
      </b>
  </td>
