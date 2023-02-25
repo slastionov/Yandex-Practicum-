@@ -64,28 +64,8 @@
         <code>numpy</code><br><br>
 </td>
 </tr>
-</tr>
 <tr>
-   <td>6</td>
-   <td>
-      <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/06_business_metrics">
-         Аналитика в Яндекс.Афише</a>
-     </b>
- </td>
- <td>
-    Изучил поведение пользователей сервиса и рассчитал основные бизнес-показатели: DAU/WAU/MAU, Sticky Factor, Retention Rate, LTV, ROMI.
-</td>
-<td>
-        <code>pandas</code><br>
-        <code>matplotlib</code><br>
-        <code>seaborn</code><br>
-        <code>numpy</code><br>
-        <code>scipy</code>
-</td>
-</tr>
-<tr>
-   <td>8</td>
+   <td>4</td>
    <td>
       <b>
          <a href="https://github.com/galaleksey/portfolio/tree/main/08_vizualization_restaurants">
@@ -104,5 +84,26 @@
         <code>re</code>
 </td>
 </tr>
+</tr>
+<tr>
+   <td>5</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/06_business_metrics">
+         Аналитика в Яндекс.Афише</a>
+     </b>
+ </td>
+ <td>
+    Изучил поведение пользователей сервиса и рассчитал основные бизнес-показатели: DAU/WAU/MAU, Sticky Factor, Retention Rate, LTV, ROMI.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>seaborn</code><br>
+        <code>numpy</code><br>
+        <code>scipy</code>
+</td>
+</tr>
+
 </tbody>
 </table>
