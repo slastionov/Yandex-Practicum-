@@ -68,7 +68,7 @@
    <td>4</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/08_vizualization_restaurants">
+         <a href="https://github.com/slastionov/for_portfolio/tree/main/Project_4">
          Анализ рынка заведений общественного питания Москвы</a>
      </b>
  </td>
@@ -89,7 +89,7 @@
    <td>5</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/portfolio/tree/main/06_business_metrics">
+         <a href="https://github.com/slastionov/for_portfolio/tree/main/Project_5">
          Аналитика в Яндекс.Афише</a>
      </b>
  </td>
