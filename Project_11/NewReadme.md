@@ -1,5 +1,6 @@
-# Выпускной проект
-## Описание проекта
+# ГЛАВНЫЙ ИТОГОВЫЙ ПРОЕКТ!
+
+## Описание проекта:
 ### 1. Проект для банка: анализ оттока клиентов
 **Файл с проектом**: [12_bank.ipynb](https://github.com/galaleksey/yandex-praktikum/blob/main/12_final_project/12_bank.ipynb)
 
@@ -7,7 +8,7 @@
 
 Основная задача - проанализировать данные клиентов банка и выделить портрет клиентов, которые склонны уходить из банка.
 
-**Выводы**
+**Выводы:**
 
 Предложения по улучшению стратегии взаимодействия с клиентами и их удержания:
 * способствовать проявлению активности клиентов;
@@ -21,7 +22,7 @@
 
 Основная цель — провести оценку результатов A/B-теста. В распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов. Необходимо оценить корректность проведения теста и проанализировать его результаты.
 
-**Выводы**
+**Выводы:**
 
 * A/B-тест был проведен некорректно ввиду большого количества проблем в данных
 
@@ -30,23 +31,23 @@
 
 Цель - составить SQL-запросы для сервиса по продаже электронных книг.
 
-## Использованные инструменты и библиотеки
+## Использованные инструменты и библиотеки:
 ```
-pandas
-seaborn
-datetime
-math
-numpy
-warnings
-statistics
-scipy.stats
-matplotlib.pyplot
-matplotlib.dates
-plotly.graph_objects
-scipy.cluster.hierarchy: dendrogram, linkage
-sklearn.cluster: KMeans
-sklearn: preprocessing
-sklearn.preprocessing: StandardScaler
-SQL
-Tableau
+- scipy.cluster.hierarchy: dendrogram, linkage
+- sklearn.preprocessing: StandardScaler
+- sklearn.cluster: KMeans
+- sklearn: preprocessing
+- plotly.graph_objects
+- matplotlib.pyplot
+- matplotlib.dates
+- scipy.stats
+- statistics
+- warnings
+- datetime
+- Tableau
+- seaborn
+- pandas
+- numpy
+- math
+- SQL
 ```
