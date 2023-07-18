@@ -104,6 +104,26 @@
         <code>scipy</code>
 </td>
 </tr>
+ <td>6</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/11_ml_fitness">
+         Прогнозирование оттока клиентов фитнес-центра с помощью машинного обучения</a>
+     </b>
+ </td>
+ <td>
+    Составил портрет лояльных клиентов и клиентов, склонных к уходу. Построил модель прогнозирования оттока клиентов. Выполнил кластеризацию клиентов.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>seaborn</code><br>
+        <code>matplotlib</code><br>
+        <code>sklearn</code><br>
+        <code>scipy</code>
+</td>
+</tr>
+
+
 
 </tbody>
 </table>
