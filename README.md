@@ -122,8 +122,114 @@
         <code>scipy</code>
 </td>
 </tr>
+<tr>
+   <td>7</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/09_conversion_funnel_a-b">
+         Анализ воронки продаж в мобильном приложении по продаже продуктов питания</a>
+     </b>
+ </td>
+ <td>
+    Изучил все шаги воронки продаж, выявил вероятные проблемы. Исследовал результаты проведенного А/А/В-теста.
+</td>
+<td>
+        <code>pandas</code>
+        <code>matplotlib</code>
+        <code>seaborn</code>
+        <code>datetime</code>
+        <code>plotly</code>
+        <code>scipy</code>
+        <code>numpy</code>
+        <code>math</code>
+</td>
+</tr>
+<tr>
+   <td>8</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/04_games-market-research">
+         Исследование рынка компьютерных игр</a>
+     </b>
+ </td>
+ <td>
+    Провел исследовательский анализ данных о продажах игр, составил портрет пользователей из каждого региона, 
+    спрогнозировал приоритетные направления для продаж на следующий год.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>stats</code><br>
+        <code>numpy</code>
+</td>
+</tr>
+<tr>
+   <td>9</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/07_a-b-testing_e-commerce">
+         A/B тестирование в интернет-магазине</a>
+     </b>
+ </td>
+ <td>
+    Приоритезировал гипотезы, проанализировал результат А/В теста: произвел расчет кумулятивной 
+    выручки, среднего чека и конверсии по группам.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>numpy</code><br>
+        <code>datetime</code><br>
+        <code>scipy</code>
+</td>
+</tr>
+
+<tr>
+   <td>10</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/05_etl_flights">
+         Аналитика в авиакомпании</a>
+     </b>
+ </td>
+ <td>
+    Загрузил данные из различных источников (БД, парсинг сайта) и проанализировал их.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>requests</code><br>
+        <code>BeautifulSoup</code><br>
+        <code>SQL</code>
 
 
-
+ 
+</td>
+</tr>
+<tr>
+   <td>11</td>
+   <td>
+      <b>
+         <a href="https://github.com/galaleksey/portfolio/tree/main/12_final_project">
+         Выпускной проект</a>
+     </b>
+ </td>
+ <td>
+   1. Проект для банка: анализ оттока клиентов<br>
+   2. A/B-тест: проверка результатов<br>
+   3. SQL: создание запросов
+</td>
+<td>
+        <code>SQL</code>
+        <code>Tableau</code>
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib</code>
+        <code>numpy</code>
+        <code>statistics</code>
+        <code>scipy</code>
+        <code>sklearn</code>
+</td>
+</tr>
 </tbody>
 </table>
